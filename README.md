@@ -1,4 +1,4 @@
-### Hello there 👋 My Name Is Daniel
+### Young/adaptable Software Engineer just trying to keep up.
 
 <!--
 **DanSilvaDevs/DanSilvaDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://media.giphy.com/media/sLlA3D82b344w/giphy.gif">

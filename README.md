@@ -1,4 +1,4 @@
-### Young/adaptable Software Engineer just trying to keep up.
+### Young/adaptable Software Engineer looking for ways to grow my skills and experience.
 
 <!--
 **DanSilvaDevs/DanSilvaDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
